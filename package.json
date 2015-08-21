@@ -23,16 +23,16 @@
     "url": "git://github.com/kgryte/rand-color-hexadecimal.git"
   },
   "keywords": [
-  	"random",
-  	"rand",
-  	"color",
-  	"hex",
-  	"hexadecimal",
-  	"lcg",
-  	"seed",
-  	"seedable",
-  	"generator",
-  	"pseudorandom"
+    "random",
+    "rand",
+    "color",
+    "hex",
+    "hexadecimal",
+    "lcg",
+    "seed",
+    "seedable",
+    "generator",
+    "pseudorandom"
   ],
   "bugs": {
     "url": "https://github.com/kgryte/rand-color-hexadecimal/issues"
@@ -46,7 +46,8 @@
     "istanbul": "^0.3.0",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
-    "mocha": "2.x.x"
+    "mocha": "2.x.x",
+    "validate.io-color-hexadecimal": "^1.0.0"
   },
   "license": "MIT"
 }

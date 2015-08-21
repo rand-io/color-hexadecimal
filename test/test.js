@@ -4,6 +4,7 @@
 // MODULES //
 
 var chai = require( 'chai' ),
+	isHexColor = require( 'validate.io-color-hexadecimal' ),
 	randc = require( './../lib' );
 
 
@@ -16,8 +17,6 @@ var expect = chai.expect,
 // TESTS //
 
 describe( 'rand-color-hexadecimal', function tests() {
-
-	var re = /^[0-9A-F]{6}$/i;
 
 	it( 'should export a function', function test() {
 		expect( randc ).to.be.a( 'function' );
@@ -36,7 +35,7 @@ describe( 'rand-color-hexadecimal', function tests() {
 
 		for ( var i = 0; i < 1e6; i++ ) {
 			color = randc();
-			assert.isTrue( re.test( color ), color );
+			assert.isTrue( isHexColor( color ), color );
 		}
 	});
 
