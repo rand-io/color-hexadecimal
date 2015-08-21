@@ -24,7 +24,7 @@ Returns a pseudorandom hexadecimal color.
 
 ``` javascript
 var hex = randc()
-// returns '######'
+// returns '<color>' => e.g., '474747'
 ```
 
 
