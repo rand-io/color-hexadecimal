@@ -83,23 +83,23 @@ $ make view-cov
 
 ## Copyright
 
-Copyright &copy; 2015. Athan Reines.
+Copyright &copy; 2015. The [Compute.io](http://compute-io.com) Authors.
 
 
 [npm-image]: http://img.shields.io/npm/v/rand-color-hexadecimal.svg
 [npm-url]: https://npmjs.org/package/rand-color-hexadecimal
 
-[travis-image]: http://img.shields.io/travis/kgryte/rand-color-hexadecimal/master.svg
-[travis-url]: https://travis-ci.org/kgryte/rand-color-hexadecimal
+[travis-image]: http://img.shields.io/travis/rand-io/color-hexadecimal/master.svg
+[travis-url]: https://travis-ci.org/rand-io/color-hexadecimal
 
-[codecov-image]: https://img.shields.io/codecov/c/github/kgryte/rand-color-hexadecimal/master.svg
-[codecov-url]: https://codecov.io/github/kgryte/rand-color-hexadecimal?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/rand-io/color-hexadecimal/master.svg
+[codecov-url]: https://codecov.io/github/rand-io/color-hexadecimal?branch=master
 
-[dependencies-image]: http://img.shields.io/david/kgryte/rand-color-hexadecimal.svg
-[dependencies-url]: https://david-dm.org/kgryte/rand-color-hexadecimal
+[dependencies-image]: http://img.shields.io/david/rand-io/color-hexadecimal.svg
+[dependencies-url]: https://david-dm.org/rand-io/color-hexadecimal
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/kgryte/rand-color-hexadecimal.svg
-[dev-dependencies-url]: https://david-dm.org/dev/kgryte/rand-color-hexadecimal
+[dev-dependencies-image]: http://img.shields.io/david/dev/rand-io/color-hexadecimal.svg
+[dev-dependencies-url]: https://david-dm.org/dev/rand-io/color-hexadecimal
 
-[github-issues-image]: http://img.shields.io/github/issues/kgryte/rand-color-hexadecimal.svg
-[github-issues-url]: https://github.com/kgryte/rand-color-hexadecimal/issues
+[github-issues-image]: http://img.shields.io/github/issues/rand-io/color-hexadecimal.svg
+[github-issues-url]: https://github.com/rand-io/color-hexadecimal/issues

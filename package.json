@@ -20,7 +20,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgryte/rand-color-hexadecimal.git"
+    "url": "git://github.com/rand-io/color-hexadecimal.git"
   },
   "keywords": [
     "random",
@@ -35,7 +35,7 @@
     "pseudorandom"
   ],
   "bugs": {
-    "url": "https://github.com/kgryte/rand-color-hexadecimal/issues"
+    "url": "https://github.com/rand-io/color-hexadecimal/issues"
   },
   "dependencies": {
     "compute-lcg": "^1.0.0"
